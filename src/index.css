@@ -131,6 +131,11 @@ main {
     height: 60px;
   }
 
+  .message {
+    margin-bottom: 4rem;
+    height: 2rem;
+  }
+
   .number {
     font-size: 4rem;
     width: 12rem;
