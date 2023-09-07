@@ -2,6 +2,7 @@ import './App.css';
 import Header from './Header';
 import Main from './Main';
 import { useState, useRef, useEffect } from 'react';
+// olorunleke
 
 function App() {
   const [score, setScore] = useState(20);
