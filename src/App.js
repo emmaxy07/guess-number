@@ -24,6 +24,7 @@ function App() {
   console.log(secretNumber);
 
   useEffect(() => {
+  
     if (guessedValue === secretNumber.toString()) {
       numberRef.current.style.width = '30rem'; // Manipulate the style when the guess matches secretNumber
     }
