@@ -3,7 +3,7 @@ import Header from './Header';
 import Main from './Main';
 import { useState, useRef, useEffect } from 'react';
 // olorunleke
-
+// olorunfunmi
 function App() {
   const [score, setScore] = useState(20);
   const [highscore, setHighscore] = useState(0);
